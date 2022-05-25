@@ -1,0 +1,3 @@
+3. Created a file within the directory.
+5. Tells me about the new file created that has not been committed.
+6. Git Diff tells me about the changes made in a file in between committs.
